@@ -29,7 +29,7 @@ export default function Hero() {
           <div className="profile-top"><span>PORTFOLIO / 2026</span><span className="status">● ONLINE</span></div>
           <div className="profile-image-container">
             <img
-              src="/public/profile.jpeg"
+              src="/profile.jpeg"
               alt="Varun Kumar"
               className="profile-image"
             />
