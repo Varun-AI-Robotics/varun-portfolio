@@ -16,6 +16,11 @@ npm run build
 npm run preview
 ```
 
+## Live 
+```bash
+https://varun-portfolio-qg45-tawny.vercel.app/
+```
+
 ## Personalize before publishing
 
 - Replace `your-email@example.com` in `src/components/Hero.jsx` and `src/components/Contact.jsx`.
